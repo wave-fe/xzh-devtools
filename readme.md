@@ -1,6 +1,6 @@
-#熊掌号开发者工具  
+# 熊掌号开发者工具  
 
-###usage
+### usage
 npm i -g electron  
 npm i -g electron-packager  
 npm i -g electron-installer-dmg  
